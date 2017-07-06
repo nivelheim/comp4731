@@ -1,0 +1,11 @@
+total 48
+-rw-rw-r-- 1 jjung jjung     0 Jun 28 20:21 abc
+-rwxrwxr-x 1 jjung jjung 13728 Jun 28 20:07 a.out
+-rw-rw-r-- 1 jjung jjung   154 Jun 21 17:27 example1.c
+-rw-rw-r-- 1 jjung jjung   255 Jun 21 17:27 example2.c
+-rw-rw-r-- 1 jjung jjung  1034 Jun 28 19:31 gmon.out
+-rw-rw-r-- 1 jjung jjung  2658 Jun 28 19:44 lab1backup.c
+-rw-rw-r-- 1 jjung jjung  2756 Jun 28 20:05 lab1.c
+-rw-rw-r-- 1 jjung jjung   429 Jun 28 20:08 test
+-rw-rw-r-- 1 jjung jjung   429 Jun 28 20:08 test2
+-rw-rw-r-- 1 jjung jjung   429 Jun 28 20:09 test3

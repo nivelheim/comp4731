@@ -1,0 +1,5 @@
+total 24
+-rwxrwxr-x 1 jjung jjung 13560 Jul  4 16:02 a.out
+-rw-rw-r-- 1 jjung jjung   674 Jul  4 16:02 gmon.out
+-rw-rw-r-- 1 jjung jjung  1188 Jul  4 16:02 lab1.c
+-rw-rw-r-- 1 jjung jjung     0 Jul  4 16:03 test
